@@ -1,3 +1,5 @@
 # Ecommerce Website
 
-A full-stack ecommerce website built with React and Spring Boot.
+A full-stack ecommerce application with React frontend and Spring Boot backend.
+
+Setup instructions coming soon...
